@@ -6,3 +6,4 @@ echo " "
 systeminfo >>c:\jenkindemo\inventory.txt
 echo "    "
 echo " The Invenyory of the System is get collctect"
+md demo
